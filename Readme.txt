@@ -2,6 +2,6 @@
 # date: change something
 It's the first time to use the Git.
 
+test: creating a new branch is quick and simple.
 
-creating a new branch is quick .
 Hope to learn more! ^_^
