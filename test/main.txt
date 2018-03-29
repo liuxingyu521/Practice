@@ -4,3 +4,5 @@ this is a main file，hah?
 这是dev1分支上做的开发内容1。
 
 这是dev1分支上做的更改2。
+
+模拟修复bug的内容。
